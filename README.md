@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Porahoto |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/porahoto/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Porahoto](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Porahoto](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
